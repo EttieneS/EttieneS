@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EttieneS
 - I am a graduate programmer
-- 👀 I’m interested in full stack programming but open to anything C# or Angular
+- 👀 I’m interested in full stack programming but open to anything C#, PHP or Angular (see my repo :) )
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on anything PHP, C#, ASP.net, Angular
 - 📫 How to reach me, smithettiene@yahoo.com
