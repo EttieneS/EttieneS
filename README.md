@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EttieneS
-- I am a junior full stack developer
-- 👀 I’m interested in Angular, .net Core, infosec
-- 🌱 I’m currently brushing up on my Angular and learning .net core
-- 💞️ I’m looking to collaborate on anything PHP, C#, .net core, Angular
+- I am a Full stack developer
+- 👀 I’m interested in web development, mobile development and infosec
+- 🌱 I’m currently working with HTML, Bootstrap, JavaScript, JQuery or Angular/Vue.js as front and then either C# or PHP/Laravel as backend.
+- 💞️ I’m looking to collaborate on anything PHP, C#
 - 📫 How to reach me, smithettiene@yahoo.com
